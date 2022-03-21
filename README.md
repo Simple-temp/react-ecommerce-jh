@@ -1,4 +1,4 @@
 # react-ecommerce
 
-Technology : react, react-router-dom, react-fontawesome, react-hooks and regex
+Technology : react, react-router-dom, react-fontawesome, react-hooks and regex. <br>
 this is a ecommerce website simple version .Here you can searching, select item and the item also placed ordered and congrats sms .
